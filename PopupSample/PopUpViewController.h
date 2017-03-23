@@ -7,7 +7,6 @@
 //
 
 #import <UIKit/UIKit.h>
-#import "ViewController.h"
 #import "PopUpHelperViewController.h"
 @protocol PopupDelegate;
 
